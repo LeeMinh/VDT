@@ -1,0 +1,103 @@
+D:\LEARNING\MyProject\VDT\VDT\bin\Debug\VDT.exe.config
+D:\LEARNING\MyProject\VDT\VDT\bin\Debug\VDT.exe
+D:\LEARNING\MyProject\VDT\VDT\bin\Debug\VDT.pdb
+D:\LEARNING\MyProject\VDT\VDT\obj\Debug\VDT.csprojResolveAssemblyReference.cache
+D:\LEARNING\MyProject\VDT\VDT\obj\Debug\VDT.VDT.resources
+D:\LEARNING\MyProject\VDT\VDT\obj\Debug\VDT.Properties.Resources.resources
+D:\LEARNING\MyProject\VDT\VDT\obj\Debug\VDT.csproj.GenerateResource.Cache
+D:\LEARNING\MyProject\VDT\VDT\obj\Debug\VDT.exe
+D:\LEARNING\MyProject\VDT\VDT\obj\Debug\VDT.pdb
+D:\LEARNING\MyProject\VDT\VDT\bin\Debug\VDT.exe.manifest
+D:\LEARNING\MyProject\VDT\VDT\bin\Debug\VDT.application
+D:\LEARNING\MyProject\VDT\VDT\obj\Debug\VDT.exe.manifest
+D:\LEARNING\MyProject\VDT\VDT\obj\Debug\VDT.application
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\bin\Debug\VDT.exe.config
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\obj\Debug\VDT.exe
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\obj\Debug\VDT.pdb
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\bin\Debug\VDT.exe.manifest
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\bin\Debug\VDT.application
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\bin\Debug\VDT.exe
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\bin\Debug\VDT.pdb
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\obj\Debug\VDT.csprojResolveAssemblyReference.cache
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\obj\Debug\VDT.VDT.resources
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\obj\Debug\VDT.Properties.Resources.resources
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\obj\Debug\VDT.csproj.GenerateResource.Cache
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\obj\Debug\VDT.exe.manifest
+D:\4.LEARNING\MyProject\VDT - Copy - Copy\VDT\obj\Debug\VDT.application
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\bin\Debug\VDT.exe.config
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\obj\Debug\VDT.exe
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\obj\Debug\VDT.pdb
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\bin\Debug\VDT.exe.manifest
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\bin\Debug\VDT.application
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\bin\Debug\VDT.exe
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\bin\Debug\VDT.pdb
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\obj\Debug\VDT.csprojResolveAssemblyReference.cache
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\obj\Debug\VDT.VDT.resources
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\obj\Debug\VDT.Properties.Resources.resources
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\obj\Debug\VDT.csproj.GenerateResource.Cache
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\obj\Debug\VDT.exe.manifest
+C:\Users\Dat Nguyen\Dropbox\VDT - Copy - Copy\VDT\obj\Debug\VDT.application
+C:\Users\harveyng\Desktop\VDT - Copy - Copy\VDT\bin\Debug\VDT.exe.config
+C:\Users\harveyng\Desktop\VDT - Copy - Copy\VDT\obj\Debug\VDT.exe
+C:\Users\harveyng\Desktop\VDT - Copy - Copy\VDT\obj\Debug\VDT.pdb
+C:\Users\harveyng\Desktop\VDT - Copy - Copy\VDT\obj\Debug\VDT.VDT.resources
+C:\Users\harveyng\Desktop\VDT - Copy - Copy\VDT\obj\Debug\VDT.Properties.Resources.resources
+C:\Users\harveyng\Desktop\VDT - Copy - Copy\VDT\obj\Debug\VDT.csproj.GenerateResource.Cache
+C:\Users\harveyng\Desktop\VDT - Copy - Copy\VDT\bin\Debug\VDT.exe
+C:\Users\harveyng\Desktop\VDT - Copy - Copy\VDT\bin\Debug\VDT.pdb
+C:\Users\harveyng\Desktop\VDT - Copy - Copy\VDT\obj\Debug\VDT.csprojResolveAssemblyReference.cache
+D:\ThemVE\VDT\bin\Debug\VDT.exe.config
+D:\ThemVE\VDT\obj\Debug\VDT.exe
+D:\ThemVE\VDT\obj\Debug\VDT.pdb
+D:\ThemVE\VDT\bin\Debug\VDT.exe
+D:\ThemVE\VDT\bin\Debug\VDT.pdb
+D:\ThemVE\VDT\obj\Debug\VDT.VDT.resources
+D:\ThemVE\VDT\obj\Debug\VDT.Properties.Resources.resources
+D:\ThemVE\VDT\obj\Debug\VDT.csproj.GenerateResource.Cache
+C:\Users\harveyng\Desktop\ThemVE\VDT\bin\Debug\VDT.exe.config
+C:\Users\harveyng\Desktop\ThemVE\VDT\obj\Debug\VDT.exe
+C:\Users\harveyng\Desktop\ThemVE\VDT\obj\Debug\VDT.pdb
+C:\Users\harveyng\Desktop\ThemVE\VDT\bin\Debug\VDT.exe
+C:\Users\harveyng\Desktop\ThemVE\VDT\bin\Debug\VDT.pdb
+C:\Users\harveyng\Desktop\ThemVE\VDT\obj\Debug\VDT.VDT.resources
+C:\Users\harveyng\Desktop\ThemVE\VDT\obj\Debug\VDT.Properties.Resources.resources
+C:\Users\harveyng\Desktop\ThemVE\VDT\obj\Debug\VDT.csproj.GenerateResource.Cache
+F:\ThemVE\ThemVE\VDT\bin\Debug\VDT.exe.config
+F:\ThemVE\ThemVE\VDT\bin\Debug\VDT.exe
+F:\ThemVE\ThemVE\VDT\bin\Debug\VDT.pdb
+F:\ThemVE\ThemVE\VDT\obj\Debug\VDT.VDT.resources
+F:\ThemVE\ThemVE\VDT\obj\Debug\VDT.Properties.Resources.resources
+F:\ThemVE\ThemVE\VDT\obj\Debug\VDT.csproj.GenerateResource.cache
+F:\ThemVE\ThemVE\VDT\obj\Debug\VDT.csproj.CoreCompileInputs.cache
+F:\ThemVE\ThemVE\VDT\obj\Debug\VDT.exe
+F:\ThemVE\ThemVE\VDT\obj\Debug\VDT.pdb
+F:\ThemVE\ThemVE\VDT\bin\Debug\VDT.exe.manifest
+F:\ThemVE\ThemVE\VDT\bin\Debug\VDT.application
+F:\ThemVE\ThemVE\VDT\obj\Debug\VDT.TrustInfo.xml
+F:\ThemVE\ThemVE\VDT\obj\Debug\VDT.exe.manifest
+F:\ThemVE\ThemVE\VDT\obj\Debug\VDT.application
+F:\ThemVE\ThemVE\VDT\obj\Debug\VDT.csprojAssemblyReference.cache
+G:\ThemVE\ThemVE\VDT\bin\Debug\VDT.exe.config
+G:\ThemVE\ThemVE\VDT\bin\Debug\VDT.exe.manifest
+G:\ThemVE\ThemVE\VDT\bin\Debug\VDT.application
+G:\ThemVE\ThemVE\VDT\bin\Debug\VDT.exe
+G:\ThemVE\ThemVE\VDT\bin\Debug\VDT.pdb
+G:\ThemVE\ThemVE\VDT\obj\Debug\VDT.csprojAssemblyReference.cache
+G:\ThemVE\ThemVE\VDT\obj\Debug\VDT.VDT.resources
+G:\ThemVE\ThemVE\VDT\obj\Debug\VDT.Properties.Resources.resources
+G:\ThemVE\ThemVE\VDT\obj\Debug\VDT.csproj.GenerateResource.cache
+G:\ThemVE\ThemVE\VDT\obj\Debug\VDT.TrustInfo.xml
+G:\ThemVE\ThemVE\VDT\obj\Debug\VDT.exe.manifest
+G:\ThemVE\ThemVE\VDT\obj\Debug\VDT.application
+G:\ThemVE\ThemVE\VDT\obj\Debug\VDT.exe
+G:\ThemVE\ThemVE\VDT\obj\Debug\VDT.pdb
+D:\ThemVE\VDT\bin\Debug\VDT.exe.manifest
+D:\ThemVE\VDT\bin\Debug\VDT.application
+D:\ThemVE\VDT\obj\Debug\VDT.csprojAssemblyReference.cache
+D:\ThemVE\VDT\obj\Debug\VDT.Login.resources
+D:\ThemVE\VDT\obj\Debug\VDT.TrustInfo.xml
+D:\ThemVE\VDT\obj\Debug\VDT.exe.manifest
+D:\ThemVE\VDT\obj\Debug\VDT.application
+D:\ThemVE\VDT\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThemVE\VDT\bin\Debug\EntityFramework.dll
+D:\ThemVE\VDT\obj\Debug\VDT.csproj.CopyComplete
